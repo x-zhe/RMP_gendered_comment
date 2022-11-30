@@ -1,7 +1,7 @@
-voila>=0.4.0
-plotly>=5.0.0
+voila
+plotly
 pandas
 openpyxl
 numpy
-ipywidgets
+ipywidgets==7.7.2
 jupyterlab>=3.1
