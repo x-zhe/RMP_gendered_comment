@@ -5,5 +5,4 @@ voila>=0.4.0
 plotly>=5.0.0
 pandas
 numpy
-requests
 ipywidgets>=8.0.0
