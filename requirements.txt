@@ -6,5 +6,5 @@ plotly>=5.0.0
 pandas
 openpyxl
 numpy
-ipywidgets==7.6.1
+ipywidgets==7.1.2
 jupyterlab-widgets
